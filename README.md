@@ -1,0 +1,1 @@
+This project demonstrates some basic HTML skills.
